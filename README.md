@@ -1,1 +1,1 @@
-# sspanish-vocabulary-project
+# spanish-vocabulary-project
